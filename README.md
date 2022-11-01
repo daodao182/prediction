@@ -1,8 +1,8 @@
 # Predicting which character is speaking based on dialogue 
 Use the text from training dataset to predict testing dataset
 # Requirements
-Python >=3.0
-Tensorflow >=2.0
+Python >=3.0<br />
+Tensorflow >=2.0<br />
 Numpy
 GPU
 # Pretraining
