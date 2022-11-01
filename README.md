@@ -6,8 +6,8 @@ Tensorflow >=2.0<br />
 Numpy
 GPU
 # Pretraining
-read.csv :read dataset
-preprocessing.LabelEncoder :convert labels to vector
+read.csv :read dataset<br />
+preprocessing.LabelEncoder :convert labels to vector<br />
 vocab_file : build a vocabulary file
 
 
