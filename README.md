@@ -3,8 +3,8 @@ Use the text from training dataset to predict testing dataset
 # Requirements
 Python >=3.0<br />
 Tensorflow >=2.0<br />
-Numpy
-GPU
+Numpy />
+GPU P100 />
 # Pretraining
 read.csv :read dataset<br />
 preprocessing.LabelEncoder :convert labels to vector<br />
