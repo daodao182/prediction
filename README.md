@@ -7,8 +7,16 @@ Numpy <br/>
 GPU P100 <br/>
 # Pretraining
 read.csv :read dataset<br />
+brief_cleaning: remove non-alphabetic characters
 preprocessing.LabelEncoder :convert labels to vector<br />
 vocab_file : build a vocabulary file
+# Training
+Parameters: <br />
+validation_split<br />
+epochs: times of iteration <br />
+batch_size: size of batch being trained
+# Running
+
 
 
 # References
