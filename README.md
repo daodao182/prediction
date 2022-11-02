@@ -10,9 +10,12 @@ GPU <br/>
 
 # Pretraining
 ```read.csv``` :read dataset<br />
+```dropna().reset_index(drop=True)```:remove missing values<br />
+```token.lemma_ ```: remove stopwords<br />
 ```brief_cleaning```: remove non-alphabetic characters
 ```preprocessing.LabelEncoder ```:convert labels to vector<br />
-```vocab_file``` : build a vocabulary file
+```vocab_file``` : build a vocabulary file<br />
+```do_lower_case```: lowercase all letters
 
 # Keras API
 
