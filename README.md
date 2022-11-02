@@ -1,6 +1,6 @@
 # The Simpsons
 Predicting which character is speaking based on dialogue. 
-This project is using NLP to tarin the training dataset ,and predicting the character part of the testing dataset
+This project is using NLP to train the training dataset ,and predicting the character part of the testing dataset
 
 # Requirements
 Python >=3.0<br />
