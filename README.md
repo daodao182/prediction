@@ -39,5 +39,4 @@ The Notebook of Kaggle has GPU accelerator :GPU T4x2 and GPU P100, they are free
 
 # References
 https://www.kaggle.com/code/nayansakhiya/text-classification-using-bert/notebook</br>
-https://www.kaggle.com/code/phongphamds/word2vec-using-gensim-library</br>
-https://www.kaggle.com/code/foolofatook/news-classification-using-bert</br>
+https://www.kaggle.com/code/phongphamds/word2vec-using-gensim-library
