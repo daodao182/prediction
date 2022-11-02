@@ -22,4 +22,5 @@ Use computer with GPU to run it, notebook of kaggle has GPU accelerator:GPU T4x2
 
 # References
 https://www.kaggle.com/code/nayansakhiya/text-classification-using-bert/notebook
+https://www.kaggle.com/code/phongphamds/word2vec-using-gensim-library
 https://www.kaggle.com/code/foolofatook/news-classification-using-bert
